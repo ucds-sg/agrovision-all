@@ -1,0 +1,12 @@
+{
+  "scriptFile": "__init__.py",
+  "bindings": [
+      {
+          "type": "eventHubTrigger",
+          "name": "event",
+          "direction": "in",
+          "eventHubName": "agrovision-eh-metadata",
+          "connection": "EVENTHUB_KEY"
+      }
+  ]
+}

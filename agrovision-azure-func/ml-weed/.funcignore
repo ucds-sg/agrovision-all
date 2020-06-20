@@ -1,0 +1,7 @@
+.git*
+.vscode
+local.settings.json
+test
+.venv
+prediction_back.py
+training_back.py
