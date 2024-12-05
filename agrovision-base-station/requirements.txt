@@ -35,5 +35,5 @@ tornado==4.5.3
 transitions==0.8.1
 typed-ast==1.4.1
 uamqp==1.2.8
-urllib3==1.25.9
+urllib3==1.26.5
 wrapt==1.12.1
